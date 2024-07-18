@@ -50,7 +50,7 @@ The grid is initialized with random tiles at the start of the game.  <br>
 Textures and music are loaded from files and managed efficiently.  <br>
 
 **Note:**  <br>
-The game was developed for the sole purpose of entertainment.  <br>
+The game was developed for the sole purpose of learning and entertainment.  <br>
 With current settings, the game would end after 60 seconds or 20 moves.  <br>
 
 **Enjoy :)**
