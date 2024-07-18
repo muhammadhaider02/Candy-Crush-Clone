@@ -55,7 +55,5 @@ With current settings, the game would end after 60 seconds or 20 moves.  <br>
 
 **Enjoy :)**
 
-https://github.com/user-attachments/assets/9289f0e7-9349-4dfe-958d-771af9546aaa
-
-
+https://github.com/user-attachments/assets/142e6c5b-96c6-432b-b529-1cde514eed07
 
