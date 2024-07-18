@@ -1,6 +1,6 @@
 # Candy-Crush-Clone
 
-**HOW TO PLAY?**
+**HOW TO PLAY?**  <br>
 Download all the files in a single folder on Ubntu
 Open your terminal is that designated folder
 
