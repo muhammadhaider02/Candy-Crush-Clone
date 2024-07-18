@@ -1,6 +1,6 @@
 # Candy-Crush-Clone
 
-**HOW TO PLAY?**  <br>
+**How To Play?**  <br>
 Download all the files in a single folder on Ubntu  <br>
 Open your terminal is that designated folder  <br>
 
@@ -9,10 +9,6 @@ sudo apt-get update  <br>
 sudo apt-get install libsfml-dev  <br>
 g++ main1.cpp -o main1-app -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio  <br>
 ./main1-app  <br>
-
-**Note:**  <br>
-The game was developed for the sole purpose of entertainment.  <br>
-With current settings, the game would end after 60 seconds or 20 moves.  <br>
 
 **Functionalities Implemented:**  <br>
 **1. Tile Swapping:**  <br>
@@ -52,5 +48,9 @@ The grid is initialized with random tiles at the start of the game.  <br>
 
 **10. Resource Management:**  <br>
 Textures and music are loaded from files and managed efficiently.  <br>
+
+**Note:**  <br>
+The game was developed for the sole purpose of entertainment.  <br>
+With current settings, the game would end after 60 seconds or 20 moves.  <br>
 
 **Enjoy :)**
