@@ -1,10 +1,10 @@
 # Candy-Crush-Clone
 
-# HOW TO PLAY?
+**HOW TO PLAY?**
 Download all the files in a single folder on Ubntu
 Open your terminal is that designated folder
 
-# Run following commands:
+**Run following commands:**
 sudo apt-get update
 sudo apt-get install libsfml-dev
 g++ main1.cpp -o main1-app -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
