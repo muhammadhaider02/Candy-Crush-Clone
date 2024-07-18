@@ -55,5 +55,5 @@ With current settings, the game would end after 60 seconds or 20 moves.  <br>
 
 **Enjoy :)**
 
-file:///home/haider/Downloads/CandyCrush.mp4
+
 
